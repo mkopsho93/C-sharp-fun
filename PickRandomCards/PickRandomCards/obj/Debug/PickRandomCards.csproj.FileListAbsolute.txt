@@ -1,0 +1,7 @@
+C:\Users\mkkop\source\repos\C-sharp-fun\PickRandomCards\PickRandomCards\bin\Debug\PickRandomCards.exe.config
+C:\Users\mkkop\source\repos\C-sharp-fun\PickRandomCards\PickRandomCards\bin\Debug\PickRandomCards.exe
+C:\Users\mkkop\source\repos\C-sharp-fun\PickRandomCards\PickRandomCards\bin\Debug\PickRandomCards.pdb
+C:\Users\mkkop\source\repos\C-sharp-fun\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.csproj.AssemblyReference.cache
+C:\Users\mkkop\source\repos\C-sharp-fun\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.csproj.CoreCompileInputs.cache
+C:\Users\mkkop\source\repos\C-sharp-fun\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.exe
+C:\Users\mkkop\source\repos\C-sharp-fun\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.pdb
