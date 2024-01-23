@@ -1,0 +1,15 @@
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\bin\Debug\ExperimentWithControls.exe.config
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\bin\Debug\ExperimentWithControls.exe
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\bin\Debug\ExperimentWithControls.pdb
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.AssemblyReference.cache
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\obj\Debug\MainWindow.g.cs
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\obj\Debug\App.g.cs
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls_MarkupCompile.cache
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls_MarkupCompile.lref
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\obj\Debug\MainWindow.baml
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.g.resources
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.Properties.Resources.resources
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.GenerateResource.cache
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.CoreCompileInputs.cache
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.exe
+C:\Users\mkkop\source\repos\C-sharp-fun\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.pdb
